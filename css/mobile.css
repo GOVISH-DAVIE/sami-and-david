@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  body {
+    background-color: red !important;
+  }
+  body #landing iframe {
+    height: 50vh !important;
+    width: 100vw !important;
+  }
+}
+/*# sourceMappingURL=mobile.css.map */

@@ -1,0 +1,12 @@
+@media(max-width:768px){ 
+body{
+    // flex-wrap: wrap;
+    background-color: red !important  ;
+    #landing{
+        iframe{
+            height: 50vh !important;
+            width: 100vw !important;
+        }
+    }
+}
+}
